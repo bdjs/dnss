@@ -1,12 +1,11 @@
 {
-  "author": "Tom Hughes-Croucher <tom.croucher@gmail.com>",
-  "name": "dnsserver",
+  "name": "dnss",
   "description": "A DNS server for Node.js",
   "version": "0.1.0",
-  "homepage": "https://github.com/sh1mmer/dnsserver.js",
+  "homepage": "https://github.com/bdjs/dnss.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sh1mmer/dnsserver.js.git"
+    "url": "git://github.com/bdjs/dnss.js.git"
   },
   "main": "lib/dnsserver.js",
   "engines": {
